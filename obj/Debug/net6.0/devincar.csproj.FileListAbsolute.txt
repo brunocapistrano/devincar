@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\bin\Debug\net6.0\devincar.exe
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\bin\Debug\net6.0\devincar.deps.json
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\bin\Debug\net6.0\devincar.runtimeconfig.json
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\bin\Debug\net6.0\devincar.dll
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\bin\Debug\net6.0\devincar.pdb
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.AssemblyInfo.cs
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.dll
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\refint\devincar.dll
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.pdb
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\devincar.genruntimeconfig.cache
+C:\Users\bruno\Desktop\ME\Estudos\Programação-Estudo-DEVinHouse-Modulo2\Projeto1\devincar\obj\Debug\net6.0\ref\devincar.dll
